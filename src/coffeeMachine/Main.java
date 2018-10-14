@@ -11,7 +11,7 @@ public class Main {
         System.out.println(cups);
         System.out.print ("For ");
         System.out.print (cups);
-        System.out.println (" cups you will need: ");
+        System.out.println (" cups of coffee you will need: ");
         System.out.print (water);
         System.out.println (" ml of water");
         System.out.print (milk);
